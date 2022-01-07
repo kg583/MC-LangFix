@@ -8,16 +8,31 @@ Download this repository as-is and install it as a resource pack. Enable priorit
 
 ## The Bugs
 
-* `advancements.nether.ride_strider_in_overworld_lava.title` is now properly capitalized ([MC-237920](https://bugs.mojang.com/browse/MC-237920))
+### Missing Translations
+
 * `death.attack.sting.item` is now translated for all English languages ([MC-186851](https://bugs.mojang.com/browse/MC-186851))
 * `death.attack.witherSkull.item` is now translated for all English languages ([MC-186148](https://bugs.mojang.com/browse/MC-186148))
 * `death.fell.accident.water` is now translated for all English languages ([MC-195467](https://bugs.mojang.com/browse/MC-195467))
-* `mco.configure.world.restore.download.question.line1` now has correst spacing ([MC-235064](https://bugs.mojang.com/browse/MC-235064))
+
+### Non-Distinct Subtitles
+
 * `subtitles.entity.axolotl.idle_water` is now distinct from `subtitles.axolotl.idle_air` ([MC-208593](https://bugs.mojang.com/browse/MC-208593))
+* `subtitles.entity.horse.ambient` is now distinct from `subtitles.entity.horse.angry` ([MC-215433](https://bugs.mojang.com/browse/MC-215433))
+* `subtitles.entity.horse.saddle` is now distinct from `subtitles.entity.pig.saddle` ([MC-215437](https://bugs.mojang.com/browse/MC-215437))
+* `subtitles.item.crossbow.hit` is now distinct from `subtitles.entity.arrow.hit` ([MC-215428](https://bugs.mojang.com/browse/MC-215428))
 * `subtitles.item.nether_wart.plant` is now more specific ([MC-148832](https://bugs.mojang.com/browse/MC-148832))
+* Several parrot subtitles are now differentiated ([MC-215436](https://bugs.mojang.com/browse/MC-215436))
+
+### Typos & Other Errors
+
+* `advancements.nether.ride_strider_in_overworld_lava.title` is now properly capitalized ([MC-237920](https://bugs.mojang.com/browse/MC-237920))
+* `mco.configure.world.restore.download.question.line1` now has correct spacing ([MC-235064](https://bugs.mojang.com/browse/MC-235064))
+* `multiplayer.status.cancelled` is now spelled the American way in US English ([MC-177133](https://bugs.mojang.com/browse/MC-177133))
+* Several advancement descriptions now have proper capitalization ([MC-226430](https://bugs.mojang.com/browse/MC-226430))
+* Tipped arrow names are now differentiated for basic potions ([MC-158539](https://bugs.mojang.com/browse/MC-158539))
 
 ## Terms of Use
 
 You may use and modify MC-LangFix as you please, so long as full attribution is maintained. Honestly I'm not sure why you would, but go ahead.
 
-Mojang if you find this you know what to do. I'd like my name to be extra large font in the credits.
+Mojang if you find this you know what to do. I'd like my name to be in extra large font in the credits.
