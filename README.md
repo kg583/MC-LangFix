@@ -28,9 +28,9 @@ Download this repository as-is and install it as a resource pack. Enable priorit
 * `advancements.nether.ride_strider_in_overworld_lava.title` is now properly capitalized (~~[MC-237920](https://bugs.mojang.com/browse/MC-237920)~~)
 * `advancements.story.mine_diamond.description` now references the correct number of diamonds ([MC-212904](https://bugs.mojang.com/browse/MC-212904))
 * `datapackFailure.title` now has correct spacing ([MC-195825](https://bugs.mojang.com/browse/MC-195825))
-* `mco.configure.world.restore.download.question.line1` now has correct spacing (~~[MC-235064](https://bugs.mojang.com/browse/MC-235064)~~)
+* ~~`mco.configure.world.restore.download.question.line1` now has correct spacing ([MC-235064](https://bugs.mojang.com/browse/MC-235064))~~
 * `multiplayer.status.cancelled` is now spelled the American way in US English ([MC-177133](https://bugs.mojang.com/browse/MC-177133))
-* Several advancement descriptions now have proper capitalization (~~[MC-226430](https://bugs.mojang.com/browse/MC-226430)~~)
+* Several advancement descriptions now have proper capitalization ([MC-226430](https://bugs.mojang.com/browse/MC-226430))
 * Tipped arrow names are now differentiated for basic potions ([MC-158539](https://bugs.mojang.com/browse/MC-158539))
 
 ## Terms of Use
